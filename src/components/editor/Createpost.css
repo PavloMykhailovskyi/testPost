@@ -1,0 +1,13 @@
+div.tagCont ::-webkit-scrollbar{
+    width:5px;
+    height:3px;
+  }
+  
+  div.tagCont ::-webkit-scrollbar-track{
+    background:whitesmoke;
+  } 
+  
+  div.tagCont ::-webkit-scrollbar-thumb{
+    background:blue;
+    border-radius: 20px;
+  }
